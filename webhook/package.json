@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.101",
+    "octokit": "^1.8.1"
+  }
+}
